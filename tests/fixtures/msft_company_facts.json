@@ -1,0 +1,88 @@
+{
+    "cik": 789019,
+    "entityName": "MICROSOFT CORP",
+    "facts": {
+        "us-gaap": {
+            "Revenues": {
+                "label": "Revenues",
+                "units": {
+                    "USD": [
+                        {
+                            "start": "2022-07-01",
+                            "end": "2023-06-30",
+                            "val": 211915000000.0,
+                            "accn": "0000789019-23-000054",
+                            "fy": 2023,
+                            "fp": "FY",
+                            "form": "10-K",
+                            "filed": "2023-07-27",
+                            "frame": "CY2023"
+                        },
+                        {
+                            "start": "2022-07-01",
+                            "end": "2023-06-30",
+                            "val": 211915000000.0,
+                            "accn": "0000789019-24-000012",
+                            "fy": 2023,
+                            "fp": "FY",
+                            "form": "10-K",
+                            "filed": "2024-07-27",
+                            "frame": "CY2023"
+                        }
+                    ]
+                }
+            },
+            "Assets": {
+                "label": "Assets",
+                "units": {
+                    "USD": [
+                        {
+                            "end": "2023-06-30",
+                            "val": 411976000000.0,
+                            "accn": "0000789019-23-000054",
+                            "fy": 2023,
+                            "fp": "FY",
+                            "form": "10-K",
+                            "filed": "2023-07-27",
+                            "frame": "CY2023"
+                        }
+                    ]
+                }
+            },
+            "Liabilities": {
+                "label": "Liabilities",
+                "units": {
+                    "USD": [
+                        {
+                            "end": "2023-06-30",
+                            "val": 205753000000.0,
+                            "accn": "0000789019-23-000054",
+                            "fy": 2023,
+                            "fp": "FY",
+                            "form": "10-K",
+                            "filed": "2023-07-27",
+                            "frame": "CY2023"
+                        }
+                    ]
+                }
+            },
+            "StockholdersEquity": {
+                "label": "StockholdersEquity",
+                "units": {
+                    "USD": [
+                        {
+                            "end": "2023-06-30",
+                            "val": 206223000000.0,
+                            "accn": "0000789019-23-000054",
+                            "fy": 2023,
+                            "fp": "FY",
+                            "form": "10-K",
+                            "filed": "2023-07-27",
+                            "frame": "CY2023"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
