@@ -117,7 +117,7 @@ def _is_compatible_period(
                 return True
 
             # Check frame
-            return bool(obs.frame and len(obs.frame) == 6)
+            return bool(obs.frame is not None and len(obs.frame) == 6)
 
     # For now, we mainly support annual in 0.1.0 as requested, but keep quarterly structure open
     return False
